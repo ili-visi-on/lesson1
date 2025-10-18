@@ -4,3 +4,7 @@
 .scnd {
   background-color: coral;
 }
+
+img {
+  size: 250px * 250px;
+}
