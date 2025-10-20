@@ -1,21 +1,21 @@
 .frst {
-  background-color: aquamarine;
+  background-color: rgb(250, 250, 250);
+  background: linear-gradient(0deg, #fafafa 50%,#949090 50%, #000000 50% );
   justify-content: space-between;
   display: flex;
   align-items: center;
 }
 .scnd {
-  background-color: coral;
   justify-content: space-between;
 }
 
 img {
-  width: 100%;
+  width: 500px;
   height: auto;
 }
 
 .image1 {
-  width: 1000px;
+  width: 500px;
 }
 
 p {
