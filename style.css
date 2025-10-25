@@ -1,24 +1,27 @@
 .frst {
-  background-color: rgb(250, 250, 250);
-  background: linear-gradient(0deg, #fafafa 50%,#949090 50%, #000000 50% );
-  justify-content: space-between;
+  justify-content: space-evenly;
   display: flex;
-  align-items: center;
+  align-items: stretch;
 }
 .scnd {
   justify-content: space-between;
 }
 
 img {
-  width: 500px;
+  width: 250px;
   height: auto;
 }
 
-.image1 {
-  width: 500px;
+p {
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
 }
 
-p {
-  color: rgb(129, 87, 32);
+header{
+  color: rgb(0, 0, 0);
   text-transform: uppercase;
+  font-size: 75px;
+  justify-content: space-evenly;
+  display: flex;
+  align-items: center
 }
